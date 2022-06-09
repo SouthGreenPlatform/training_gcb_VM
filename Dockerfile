@@ -35,8 +35,8 @@ RUN conda install -c conda-forge singularity
 RUN conda install -c bioconda fastani
 
 ### MOB and FLYE with SINGULARITY
-RUN singularity pull docker://kbessonov/mob_suite:3.0.3
-RUN singularity pull docker://staphb/flye:2.9
+### RUN singularity pull docker://kbessonov/mob_suite:3.0.3
+### RUN singularity pull docker://staphb/flye:2.9
 
 
 ### TESTS ERRORS
