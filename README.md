@@ -20,6 +20,8 @@ This Jupyter app is based on the Jupyter Docker Stacks. By default, this Biosphe
 * [MOB-Suite](https://github.com/phac-nml/mob-suite)
 * [Roary](https://github.com/sanger-pathogens/Roary)
 * [Scoary](https://github.com/AdmiralenOla/Scoary)
+* [FastANI](https://github.com/ParBLiSS/FastANI)
+* [Singularity](https://sylabs.io/guides/3.0/user-guide/installation.html)
 
 
 
